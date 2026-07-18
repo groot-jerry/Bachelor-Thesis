@@ -92,8 +92,13 @@ Rice-Leaf-Disease-Recognition/
 
 ### 1. Data Collection
 
-* Collect rice leaf images from publicly available datasets.
-* Organize images by disease category.
+* ontains 8 rice leaf diseases with 1,701 original images and 5,188 augmented images.
+* Collected from Sirajganj and Pabna districts between July 2023 to October 2023.
+* Images captured under various lighting conditions (outdoor and indoor).
+* Diseases include Bacterial Leaf Blight, Brown Spot, Leaf Scald, Rice Hispa, and others.
+* Useful for machine learning research in rice disease detection.
+* Dataset link: https://data.mendeley.com/datasets/t46kkgh2yw/1
+  
 
 ### 2. Data Preprocessing
 
@@ -192,7 +197,7 @@ University of Asia Pacific
 
 **Dr. Nasima Begum**
 
-Associate Professor
+Professor
 
 Department of Computer Science and Engineering
 
